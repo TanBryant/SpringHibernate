@@ -1,0 +1,25 @@
+Buổi 1:
+Lê Tường Phúc
+Email: ltphuc@gmail.com
+Phone: 0812056246
+Fb: /tuongphuc.le
+Buổi 1:
+	Kiến thức cần ôn
+	- Java core
+	- Jsp/Servlet
+	- Html/Css
+	- MySql
+	- MVC Models
+
+Cài đặt trước buổi sau:
+- MYSQL WORKBENCH
+- TOMCAT
+- JAVA ECLIPSE
+Bài tập: Viết email giới thiệu bản thân bằng tiếng anh, kèm link web html tự làm
+Buổi 3:
+kiến trúc:
+config
+controller
+model
+responsitory
+service
